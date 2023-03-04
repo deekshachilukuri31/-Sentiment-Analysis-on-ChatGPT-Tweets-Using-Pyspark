@@ -12,10 +12,10 @@ Jupyter notebook containing the PySpark code and documentation for the project
 
 ## Requirements 
 To run the project, you will need to have the following software and libraries installed: 
-PySpark 
-Jupyter Notebook/ Google Collab
-Pandas 
-Numpy
+- PySpark 
+- Jupyter Notebook/ Google Collab
+- Pandas 
+- Numpy
 
 
 ## Conclusion
