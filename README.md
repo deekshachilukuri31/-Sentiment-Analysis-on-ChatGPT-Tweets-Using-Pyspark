@@ -17,6 +17,10 @@ To run the project, you will need to have the following software and libraries i
 - Pandas 
 - Numpy
 
+## output
+![image](https://user-images.githubusercontent.com/112019616/231301645-da5d128e-ec7e-4e8d-8f2a-b025309e9268.png)
+
+
 
 ## Conclusion
 This project demonstrated how to use PySpark for data preprocessing, sentiment analysis, and visualization. We used PySpark to clean and preprocess the Twitter dataset containing tweets with the hashtag #ChatGPT. Then, we applied a sentiment analysis technique to classify the tweets as positive, negative, or neutral. Finally, we visualized the sentiment analysis results using a bar chart. PySpark provides a powerful and scalable way to process large datasets, making it an ideal tool for big data projects. With PySpark, we can easily distribute the processing of data across a cluster of machines, enabling us to process data faster and more efficiently. Additionally, PySpark comes with built-in support for many machine learning and data analysis libraries, making it a versatile tool for a wide range of data-related tasks. Overall, this project demonstrated the capabilities of PySpark for data processing and analysis, and showcased how it can be used to gain insights from large datasets.
